@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# App
+BackShotCoss
+
+# Segmentation results
+*.csv
