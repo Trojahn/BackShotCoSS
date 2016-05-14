@@ -48,6 +48,7 @@ All the applied heuristics does try to improve the overall precision by merging 
 
 # Related applications
 FAST (https://github.com/Trojahn/FAST) - An application developed to achieve a fast video shot segmentation. The output shot segmentation file is supported by the BackShotCoSS.
+
 VKFrameS (https://github.com/Trojahn/VKFrameS) - An application which tries to extract a set of different keyframes for each input shot. The keyframes output file is supported by the BackShotCoSS. 
 
 # Related publications
